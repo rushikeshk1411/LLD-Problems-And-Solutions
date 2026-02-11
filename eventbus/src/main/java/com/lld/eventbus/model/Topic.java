@@ -1,4 +1,4 @@
-package com.lld.eventbus;
+package com.lld.eventbus.model;
 
 public class Topic {
     private String name;
